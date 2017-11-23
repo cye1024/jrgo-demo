@@ -14,7 +14,7 @@ var (
 
 func init() {
 	log = logrus.WithField("Exampel", "ExampleSvc")
-	logrus.SetLevel(logrus.Debugln())
+	logrus.SetLevel(logrus.DebugLevel)
 }
 
 // A server wishes to export an object of type ExampleSvc:

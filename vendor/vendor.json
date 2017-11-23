@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "ZBhR1HqPS+S9rVeXaWP4H7R2zAA=",
+			"path": "github.com/powerman/rpc-codec/jsonrpc2",
+			"revision": "d10c0e9cfeac32cd94ee57c8eb8728abd6594618",
+			"revisionTime": "2017-02-22T15:23:36Z"
+		},
+		{
+			"checksumSHA1": "pOsyzLxA9jL375TDmbDdsgiMPl8=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "95cd2b9c79aa5e72ab0bc69b7ccc2be15bf850f6",
+			"revisionTime": "2017-11-18T12:42:23Z"
+		},
+		{
+			"checksumSHA1": "5Yb2z6UO+Arm/TEd+OEtdnwOt1A=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "9f005a07e0d31d45e6656d241bb5c0f2efd4bc94",
+			"revisionTime": "2017-09-21T17:41:56Z"
+		},
+		{
+			"checksumSHA1": "2XGeRk0lsgt4zg/zoDMy0uTjWLg=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "82aafbf43bf885069dc71b7e7c2f9d7a614d47da",
+			"revisionTime": "2017-11-21T20:10:17Z"
+		},
+		{
+			"checksumSHA1": "cQoW6a5F9mbu10APPXM39YJtv48=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "82aafbf43bf885069dc71b7e7c2f9d7a614d47da",
+			"revisionTime": "2017-11-21T20:10:17Z"
+		}
+	],
+	"rootPath": "jrgo-demo"
+}
